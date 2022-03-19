@@ -1,0 +1,2279 @@
+"","Team1Name","Team2Name","Winner"
+"1","Abilene Chr","Alabama",0
+"2","Abilene Chr","Appalachian St",0
+"3","Abilene Chr","Arkansas",0
+"4","Abilene Chr","Baylor",0
+"5","Abilene Chr","BYU",0
+"6","Abilene Chr","Clemson",0
+"7","Abilene Chr","Cleveland St",1
+"8","Abilene Chr","Colgate",0
+"9","Abilene Chr","Colorado",0
+"10","Abilene Chr","Connecticut",0
+"11","Abilene Chr","Creighton",0
+"12","Abilene Chr","Drake",0
+"13","Abilene Chr","Drexel",0
+"14","Abilene Chr","E Washington",0
+"15","Abilene Chr","Florida",0
+"16","Abilene Chr","Florida St",0
+"17","Abilene Chr","Georgetown",0
+"18","Abilene Chr","Georgia Tech",0
+"19","Abilene Chr","Gonzaga",0
+"20","Abilene Chr","Grand Canyon",0
+"21","Abilene Chr","Hartford",0
+"22","Abilene Chr","Houston",0
+"23","Abilene Chr","Illinois",0
+"24","Abilene Chr","Iona",0
+"25","Abilene Chr","Iowa",0
+"26","Abilene Chr","Kansas",0
+"27","Abilene Chr","Liberty",0
+"28","Abilene Chr","Loyola-Chicago",0
+"29","Abilene Chr","LSU",0
+"30","Abilene Chr","Maryland",0
+"31","Abilene Chr","Michigan",0
+"32","Abilene Chr","Michigan St",0
+"33","Abilene Chr","Missouri",0
+"34","Abilene Chr","Morehead St",0
+"35","Abilene Chr","Mt St Mary's",0
+"36","Abilene Chr","Norfolk St",1
+"37","Abilene Chr","North Carolina",0
+"38","Abilene Chr","North Texas",0
+"39","Abilene Chr","Ohio",0
+"40","Abilene Chr","Ohio St",0
+"41","Abilene Chr","Oklahoma",0
+"42","Abilene Chr","Oklahoma St",0
+"43","Abilene Chr","Oral Roberts",0
+"44","Abilene Chr","Oregon",0
+"45","Abilene Chr","Oregon St",0
+"46","Abilene Chr","Purdue",0
+"47","Abilene Chr","Rutgers",0
+"48","Abilene Chr","San Diego St",0
+"49","Abilene Chr","UC Santa Barbara",0
+"50","Abilene Chr","St Bonaventure",0
+"51","Abilene Chr","Syracuse",0
+"52","Abilene Chr","Tennessee",0
+"53","Abilene Chr","Texas",0
+"54","Abilene Chr","Texas Tech",0
+"55","Abilene Chr","TX Southern",1
+"56","Abilene Chr","UCLA",0
+"57","Abilene Chr","UNC Greensboro",0
+"58","Abilene Chr","USC",0
+"59","Abilene Chr","Utah St",0
+"60","Abilene Chr","VCU",0
+"61","Abilene Chr","Villanova",0
+"62","Abilene Chr","Virginia",0
+"63","Abilene Chr","Virginia Tech",0
+"64","Abilene Chr","West Virginia",0
+"65","Abilene Chr","Wichita St",0
+"66","Abilene Chr","Winthrop",0
+"67","Abilene Chr","Wisconsin",0
+"68","Alabama","Appalachian St",1
+"69","Alabama","Arkansas",1
+"70","Alabama","Baylor",1
+"71","Alabama","BYU",0
+"72","Alabama","Clemson",0
+"73","Alabama","Cleveland St",1
+"74","Alabama","Colgate",0
+"75","Alabama","Colorado",0
+"76","Alabama","Connecticut",1
+"77","Alabama","Creighton",0
+"78","Alabama","Drake",0
+"79","Alabama","Drexel",0
+"80","Alabama","E Washington",1
+"81","Alabama","Florida",0
+"82","Alabama","Florida St",0
+"83","Alabama","Georgetown",0
+"84","Alabama","Georgia Tech",1
+"85","Alabama","Gonzaga",0
+"86","Alabama","Grand Canyon",0
+"87","Alabama","Hartford",1
+"88","Alabama","Houston",0
+"89","Alabama","Illinois",0
+"90","Alabama","Iona",1
+"91","Alabama","Iowa",0
+"92","Alabama","Kansas",0
+"93","Alabama","Liberty",0
+"94","Alabama","Loyola-Chicago",0
+"95","Alabama","LSU",0
+"96","Alabama","Maryland",0
+"97","Alabama","Michigan",0
+"98","Alabama","Michigan St",0
+"99","Alabama","Missouri",1
+"100","Alabama","Morehead St",0
+"101","Alabama","Mt St Mary's",1
+"102","Alabama","Norfolk St",1
+"103","Alabama","North Carolina",0
+"104","Alabama","North Texas",0
+"105","Alabama","Ohio",0
+"106","Alabama","Ohio St",0
+"107","Alabama","Oklahoma",0
+"108","Alabama","Oklahoma St",1
+"109","Alabama","Oral Roberts",0
+"110","Alabama","Oregon",0
+"111","Alabama","Oregon St",0
+"112","Alabama","Purdue",0
+"113","Alabama","Rutgers",0
+"114","Alabama","San Diego St",0
+"115","Alabama","UC Santa Barbara",0
+"116","Alabama","St Bonaventure",0
+"117","Alabama","Syracuse",0
+"118","Alabama","Tennessee",1
+"119","Alabama","Texas",1
+"120","Alabama","Texas Tech",0
+"121","Alabama","TX Southern",1
+"122","Alabama","UCLA",1
+"123","Alabama","UNC Greensboro",1
+"124","Alabama","USC",1
+"125","Alabama","Utah St",0
+"126","Alabama","VCU",0
+"127","Alabama","Villanova",0
+"128","Alabama","Virginia",1
+"129","Alabama","Virginia Tech",0
+"130","Alabama","West Virginia",1
+"131","Alabama","Wichita St",1
+"132","Alabama","Winthrop",1
+"133","Alabama","Wisconsin",0
+"134","Appalachian St","Arkansas",0
+"135","Appalachian St","Baylor",0
+"136","Appalachian St","BYU",0
+"137","Appalachian St","Clemson",0
+"138","Appalachian St","Cleveland St",1
+"139","Appalachian St","Colgate",0
+"140","Appalachian St","Colorado",0
+"141","Appalachian St","Connecticut",0
+"142","Appalachian St","Creighton",0
+"143","Appalachian St","Drake",0
+"144","Appalachian St","Drexel",0
+"145","Appalachian St","E Washington",0
+"146","Appalachian St","Florida",0
+"147","Appalachian St","Florida St",0
+"148","Appalachian St","Georgetown",0
+"149","Appalachian St","Georgia Tech",1
+"150","Appalachian St","Gonzaga",0
+"151","Appalachian St","Grand Canyon",0
+"152","Appalachian St","Hartford",1
+"153","Appalachian St","Houston",0
+"154","Appalachian St","Illinois",0
+"155","Appalachian St","Iona",0
+"156","Appalachian St","Iowa",0
+"157","Appalachian St","Kansas",0
+"158","Appalachian St","Liberty",0
+"159","Appalachian St","Loyola-Chicago",0
+"160","Appalachian St","LSU",0
+"161","Appalachian St","Maryland",0
+"162","Appalachian St","Michigan",0
+"163","Appalachian St","Michigan St",0
+"164","Appalachian St","Missouri",1
+"165","Appalachian St","Morehead St",0
+"166","Appalachian St","Mt St Mary's",0
+"167","Appalachian St","Norfolk St",1
+"168","Appalachian St","North Carolina",0
+"169","Appalachian St","North Texas",0
+"170","Appalachian St","Ohio",0
+"171","Appalachian St","Ohio St",0
+"172","Appalachian St","Oklahoma",0
+"173","Appalachian St","Oklahoma St",0
+"174","Appalachian St","Oral Roberts",0
+"175","Appalachian St","Oregon",0
+"176","Appalachian St","Oregon St",0
+"177","Appalachian St","Purdue",0
+"178","Appalachian St","Rutgers",0
+"179","Appalachian St","San Diego St",0
+"180","Appalachian St","UC Santa Barbara",0
+"181","Appalachian St","St Bonaventure",0
+"182","Appalachian St","Syracuse",0
+"183","Appalachian St","Tennessee",0
+"184","Appalachian St","Texas",1
+"185","Appalachian St","Texas Tech",0
+"186","Appalachian St","TX Southern",1
+"187","Appalachian St","UCLA",0
+"188","Appalachian St","UNC Greensboro",0
+"189","Appalachian St","USC",0
+"190","Appalachian St","Utah St",0
+"191","Appalachian St","VCU",0
+"192","Appalachian St","Villanova",0
+"193","Appalachian St","Virginia",0
+"194","Appalachian St","Virginia Tech",0
+"195","Appalachian St","West Virginia",1
+"196","Appalachian St","Wichita St",1
+"197","Appalachian St","Winthrop",0
+"198","Appalachian St","Wisconsin",0
+"199","Arkansas","Baylor",0
+"200","Arkansas","BYU",0
+"201","Arkansas","Clemson",0
+"202","Arkansas","Cleveland St",1
+"203","Arkansas","Colgate",0
+"204","Arkansas","Colorado",0
+"205","Arkansas","Connecticut",0
+"206","Arkansas","Creighton",0
+"207","Arkansas","Drake",0
+"208","Arkansas","Drexel",0
+"209","Arkansas","E Washington",1
+"210","Arkansas","Florida",0
+"211","Arkansas","Florida St",0
+"212","Arkansas","Georgetown",0
+"213","Arkansas","Georgia Tech",1
+"214","Arkansas","Gonzaga",0
+"215","Arkansas","Grand Canyon",0
+"216","Arkansas","Hartford",1
+"217","Arkansas","Houston",0
+"218","Arkansas","Illinois",0
+"219","Arkansas","Iona",0
+"220","Arkansas","Iowa",0
+"221","Arkansas","Kansas",0
+"222","Arkansas","Liberty",0
+"223","Arkansas","Loyola-Chicago",0
+"224","Arkansas","LSU",0
+"225","Arkansas","Maryland",0
+"226","Arkansas","Michigan",0
+"227","Arkansas","Michigan St",0
+"228","Arkansas","Missouri",1
+"229","Arkansas","Morehead St",0
+"230","Arkansas","Mt St Mary's",0
+"231","Arkansas","Norfolk St",1
+"232","Arkansas","North Carolina",0
+"233","Arkansas","North Texas",0
+"234","Arkansas","Ohio",0
+"235","Arkansas","Ohio St",0
+"236","Arkansas","Oklahoma",0
+"237","Arkansas","Oklahoma St",0
+"238","Arkansas","Oral Roberts",0
+"239","Arkansas","Oregon",0
+"240","Arkansas","Oregon St",0
+"241","Arkansas","Purdue",0
+"242","Arkansas","Rutgers",0
+"243","Arkansas","San Diego St",0
+"244","Arkansas","UC Santa Barbara",0
+"245","Arkansas","St Bonaventure",0
+"246","Arkansas","Syracuse",0
+"247","Arkansas","Tennessee",0
+"248","Arkansas","Texas",1
+"249","Arkansas","Texas Tech",0
+"250","Arkansas","TX Southern",1
+"251","Arkansas","UCLA",0
+"252","Arkansas","UNC Greensboro",0
+"253","Arkansas","USC",0
+"254","Arkansas","Utah St",0
+"255","Arkansas","VCU",0
+"256","Arkansas","Villanova",0
+"257","Arkansas","Virginia",0
+"258","Arkansas","Virginia Tech",0
+"259","Arkansas","West Virginia",1
+"260","Arkansas","Wichita St",1
+"261","Arkansas","Winthrop",0
+"262","Arkansas","Wisconsin",0
+"263","Baylor","BYU",0
+"264","Baylor","Clemson",1
+"265","Baylor","Cleveland St",1
+"266","Baylor","Colgate",0
+"267","Baylor","Colorado",0
+"268","Baylor","Connecticut",1
+"269","Baylor","Creighton",0
+"270","Baylor","Drake",0
+"271","Baylor","Drexel",1
+"272","Baylor","E Washington",1
+"273","Baylor","Florida",0
+"274","Baylor","Florida St",0
+"275","Baylor","Georgetown",0
+"276","Baylor","Georgia Tech",1
+"277","Baylor","Gonzaga",0
+"278","Baylor","Grand Canyon",0
+"279","Baylor","Hartford",1
+"280","Baylor","Houston",0
+"281","Baylor","Illinois",0
+"282","Baylor","Iona",1
+"283","Baylor","Iowa",0
+"284","Baylor","Kansas",0
+"285","Baylor","Liberty",0
+"286","Baylor","Loyola-Chicago",0
+"287","Baylor","LSU",0
+"288","Baylor","Maryland",0
+"289","Baylor","Michigan",0
+"290","Baylor","Michigan St",0
+"291","Baylor","Missouri",1
+"292","Baylor","Morehead St",1
+"293","Baylor","Mt St Mary's",1
+"294","Baylor","Norfolk St",1
+"295","Baylor","North Carolina",0
+"296","Baylor","North Texas",0
+"297","Baylor","Ohio",0
+"298","Baylor","Ohio St",0
+"299","Baylor","Oklahoma",0
+"300","Baylor","Oklahoma St",1
+"301","Baylor","Oral Roberts",0
+"302","Baylor","Oregon",0
+"303","Baylor","Oregon St",0
+"304","Baylor","Purdue",0
+"305","Baylor","Rutgers",0
+"306","Baylor","San Diego St",0
+"307","Baylor","UC Santa Barbara",0
+"308","Baylor","St Bonaventure",0
+"309","Baylor","Syracuse",0
+"310","Baylor","Tennessee",1
+"311","Baylor","Texas",1
+"312","Baylor","Texas Tech",0
+"313","Baylor","TX Southern",1
+"314","Baylor","UCLA",1
+"315","Baylor","UNC Greensboro",1
+"316","Baylor","USC",1
+"317","Baylor","Utah St",0
+"318","Baylor","VCU",1
+"319","Baylor","Villanova",0
+"320","Baylor","Virginia",1
+"321","Baylor","Virginia Tech",0
+"322","Baylor","West Virginia",1
+"323","Baylor","Wichita St",1
+"324","Baylor","Winthrop",1
+"325","Baylor","Wisconsin",0
+"326","BYU","Clemson",1
+"327","BYU","Cleveland St",1
+"328","BYU","Colgate",1
+"329","BYU","Colorado",1
+"330","BYU","Connecticut",1
+"331","BYU","Creighton",1
+"332","BYU","Drake",1
+"333","BYU","Drexel",1
+"334","BYU","E Washington",1
+"335","BYU","Florida",1
+"336","BYU","Florida St",1
+"337","BYU","Georgetown",1
+"338","BYU","Georgia Tech",1
+"339","BYU","Gonzaga",0
+"340","BYU","Grand Canyon",1
+"341","BYU","Hartford",1
+"342","BYU","Houston",1
+"343","BYU","Illinois",1
+"344","BYU","Iona",1
+"345","BYU","Iowa",1
+"346","BYU","Kansas",1
+"347","BYU","Liberty",1
+"348","BYU","Loyola-Chicago",1
+"349","BYU","LSU",0
+"350","BYU","Maryland",1
+"351","BYU","Michigan",0
+"352","BYU","Michigan St",1
+"353","BYU","Missouri",1
+"354","BYU","Morehead St",1
+"355","BYU","Mt St Mary's",1
+"356","BYU","Norfolk St",1
+"357","BYU","North Carolina",1
+"358","BYU","North Texas",1
+"359","BYU","Ohio",1
+"360","BYU","Ohio St",1
+"361","BYU","Oklahoma",1
+"362","BYU","Oklahoma St",1
+"363","BYU","Oral Roberts",0
+"364","BYU","Oregon",1
+"365","BYU","Oregon St",1
+"366","BYU","Purdue",1
+"367","BYU","Rutgers",1
+"368","BYU","San Diego St",1
+"369","BYU","UC Santa Barbara",1
+"370","BYU","St Bonaventure",1
+"371","BYU","Syracuse",1
+"372","BYU","Tennessee",1
+"373","BYU","Texas",1
+"374","BYU","Texas Tech",1
+"375","BYU","TX Southern",1
+"376","BYU","UCLA",1
+"377","BYU","UNC Greensboro",1
+"378","BYU","USC",1
+"379","BYU","Utah St",1
+"380","BYU","VCU",1
+"381","BYU","Villanova",1
+"382","BYU","Virginia",1
+"383","BYU","Virginia Tech",1
+"384","BYU","West Virginia",1
+"385","BYU","Wichita St",1
+"386","BYU","Winthrop",1
+"387","BYU","Wisconsin",1
+"388","Clemson","Cleveland St",1
+"389","Clemson","Colgate",0
+"390","Clemson","Colorado",0
+"391","Clemson","Connecticut",1
+"392","Clemson","Creighton",0
+"393","Clemson","Drake",0
+"394","Clemson","Drexel",0
+"395","Clemson","E Washington",1
+"396","Clemson","Florida",0
+"397","Clemson","Florida St",0
+"398","Clemson","Georgetown",0
+"399","Clemson","Georgia Tech",1
+"400","Clemson","Gonzaga",0
+"401","Clemson","Grand Canyon",0
+"402","Clemson","Hartford",1
+"403","Clemson","Houston",0
+"404","Clemson","Illinois",0
+"405","Clemson","Iona",0
+"406","Clemson","Iowa",0
+"407","Clemson","Kansas",0
+"408","Clemson","Liberty",0
+"409","Clemson","Loyola-Chicago",0
+"410","Clemson","LSU",0
+"411","Clemson","Maryland",0
+"412","Clemson","Michigan",0
+"413","Clemson","Michigan St",0
+"414","Clemson","Missouri",1
+"415","Clemson","Morehead St",0
+"416","Clemson","Mt St Mary's",1
+"417","Clemson","Norfolk St",1
+"418","Clemson","North Carolina",0
+"419","Clemson","North Texas",0
+"420","Clemson","Ohio",0
+"421","Clemson","Ohio St",0
+"422","Clemson","Oklahoma",0
+"423","Clemson","Oklahoma St",1
+"424","Clemson","Oral Roberts",0
+"425","Clemson","Oregon",0
+"426","Clemson","Oregon St",0
+"427","Clemson","Purdue",0
+"428","Clemson","Rutgers",0
+"429","Clemson","San Diego St",0
+"430","Clemson","UC Santa Barbara",0
+"431","Clemson","St Bonaventure",0
+"432","Clemson","Syracuse",0
+"433","Clemson","Tennessee",1
+"434","Clemson","Texas",1
+"435","Clemson","Texas Tech",0
+"436","Clemson","TX Southern",1
+"437","Clemson","UCLA",0
+"438","Clemson","UNC Greensboro",1
+"439","Clemson","USC",1
+"440","Clemson","Utah St",0
+"441","Clemson","VCU",0
+"442","Clemson","Villanova",0
+"443","Clemson","Virginia",1
+"444","Clemson","Virginia Tech",0
+"445","Clemson","West Virginia",1
+"446","Clemson","Wichita St",1
+"447","Clemson","Winthrop",0
+"448","Clemson","Wisconsin",0
+"449","Cleveland St","Colgate",0
+"450","Cleveland St","Colorado",0
+"451","Cleveland St","Connecticut",0
+"452","Cleveland St","Creighton",0
+"453","Cleveland St","Drake",0
+"454","Cleveland St","Drexel",0
+"455","Cleveland St","E Washington",0
+"456","Cleveland St","Florida",0
+"457","Cleveland St","Florida St",0
+"458","Cleveland St","Georgetown",0
+"459","Cleveland St","Georgia Tech",0
+"460","Cleveland St","Gonzaga",0
+"461","Cleveland St","Grand Canyon",0
+"462","Cleveland St","Hartford",0
+"463","Cleveland St","Houston",0
+"464","Cleveland St","Illinois",0
+"465","Cleveland St","Iona",0
+"466","Cleveland St","Iowa",0
+"467","Cleveland St","Kansas",0
+"468","Cleveland St","Liberty",0
+"469","Cleveland St","Loyola-Chicago",0
+"470","Cleveland St","LSU",0
+"471","Cleveland St","Maryland",0
+"472","Cleveland St","Michigan",0
+"473","Cleveland St","Michigan St",0
+"474","Cleveland St","Missouri",0
+"475","Cleveland St","Morehead St",0
+"476","Cleveland St","Mt St Mary's",0
+"477","Cleveland St","Norfolk St",1
+"478","Cleveland St","North Carolina",0
+"479","Cleveland St","North Texas",0
+"480","Cleveland St","Ohio",0
+"481","Cleveland St","Ohio St",0
+"482","Cleveland St","Oklahoma",0
+"483","Cleveland St","Oklahoma St",0
+"484","Cleveland St","Oral Roberts",0
+"485","Cleveland St","Oregon",0
+"486","Cleveland St","Oregon St",0
+"487","Cleveland St","Purdue",0
+"488","Cleveland St","Rutgers",0
+"489","Cleveland St","San Diego St",0
+"490","Cleveland St","UC Santa Barbara",0
+"491","Cleveland St","St Bonaventure",0
+"492","Cleveland St","Syracuse",0
+"493","Cleveland St","Tennessee",0
+"494","Cleveland St","Texas",0
+"495","Cleveland St","Texas Tech",0
+"496","Cleveland St","TX Southern",1
+"497","Cleveland St","UCLA",0
+"498","Cleveland St","UNC Greensboro",0
+"499","Cleveland St","USC",0
+"500","Cleveland St","Utah St",0
+"501","Cleveland St","VCU",0
+"502","Cleveland St","Villanova",0
+"503","Cleveland St","Virginia",0
+"504","Cleveland St","Virginia Tech",0
+"505","Cleveland St","West Virginia",0
+"506","Cleveland St","Wichita St",0
+"507","Cleveland St","Winthrop",0
+"508","Cleveland St","Wisconsin",0
+"509","Colgate","Colorado",1
+"510","Colgate","Connecticut",1
+"511","Colgate","Creighton",0
+"512","Colgate","Drake",1
+"513","Colgate","Drexel",1
+"514","Colgate","E Washington",1
+"515","Colgate","Florida",1
+"516","Colgate","Florida St",1
+"517","Colgate","Georgetown",0
+"518","Colgate","Georgia Tech",1
+"519","Colgate","Gonzaga",0
+"520","Colgate","Grand Canyon",1
+"521","Colgate","Hartford",1
+"522","Colgate","Houston",1
+"523","Colgate","Illinois",1
+"524","Colgate","Iona",1
+"525","Colgate","Iowa",0
+"526","Colgate","Kansas",1
+"527","Colgate","Liberty",0
+"528","Colgate","Loyola-Chicago",1
+"529","Colgate","LSU",0
+"530","Colgate","Maryland",1
+"531","Colgate","Michigan",0
+"532","Colgate","Michigan St",0
+"533","Colgate","Missouri",1
+"534","Colgate","Morehead St",1
+"535","Colgate","Mt St Mary's",1
+"536","Colgate","Norfolk St",1
+"537","Colgate","North Carolina",1
+"538","Colgate","North Texas",1
+"539","Colgate","Ohio",1
+"540","Colgate","Ohio St",1
+"541","Colgate","Oklahoma",1
+"542","Colgate","Oklahoma St",1
+"543","Colgate","Oral Roberts",0
+"544","Colgate","Oregon",1
+"545","Colgate","Oregon St",1
+"546","Colgate","Purdue",1
+"547","Colgate","Rutgers",1
+"548","Colgate","San Diego St",0
+"549","Colgate","UC Santa Barbara",1
+"550","Colgate","St Bonaventure",1
+"551","Colgate","Syracuse",1
+"552","Colgate","Tennessee",1
+"553","Colgate","Texas",1
+"554","Colgate","Texas Tech",1
+"555","Colgate","TX Southern",1
+"556","Colgate","UCLA",1
+"557","Colgate","UNC Greensboro",1
+"558","Colgate","USC",1
+"559","Colgate","Utah St",0
+"560","Colgate","VCU",1
+"561","Colgate","Villanova",1
+"562","Colgate","Virginia",1
+"563","Colgate","Virginia Tech",0
+"564","Colgate","West Virginia",1
+"565","Colgate","Wichita St",1
+"566","Colgate","Winthrop",1
+"567","Colgate","Wisconsin",1
+"568","Colorado","Connecticut",1
+"569","Colorado","Creighton",0
+"570","Colorado","Drake",1
+"571","Colorado","Drexel",1
+"572","Colorado","E Washington",1
+"573","Colorado","Florida",0
+"574","Colorado","Florida St",1
+"575","Colorado","Georgetown",0
+"576","Colorado","Georgia Tech",1
+"577","Colorado","Gonzaga",0
+"578","Colorado","Grand Canyon",0
+"579","Colorado","Hartford",1
+"580","Colorado","Houston",1
+"581","Colorado","Illinois",0
+"582","Colorado","Iona",1
+"583","Colorado","Iowa",0
+"584","Colorado","Kansas",0
+"585","Colorado","Liberty",0
+"586","Colorado","Loyola-Chicago",0
+"587","Colorado","LSU",0
+"588","Colorado","Maryland",1
+"589","Colorado","Michigan",0
+"590","Colorado","Michigan St",0
+"591","Colorado","Missouri",1
+"592","Colorado","Morehead St",1
+"593","Colorado","Mt St Mary's",1
+"594","Colorado","Norfolk St",1
+"595","Colorado","North Carolina",0
+"596","Colorado","North Texas",1
+"597","Colorado","Ohio",1
+"598","Colorado","Ohio St",1
+"599","Colorado","Oklahoma",0
+"600","Colorado","Oklahoma St",1
+"601","Colorado","Oral Roberts",0
+"602","Colorado","Oregon",0
+"603","Colorado","Oregon St",0
+"604","Colorado","Purdue",1
+"605","Colorado","Rutgers",0
+"606","Colorado","San Diego St",0
+"607","Colorado","UC Santa Barbara",1
+"608","Colorado","St Bonaventure",0
+"609","Colorado","Syracuse",0
+"610","Colorado","Tennessee",1
+"611","Colorado","Texas",1
+"612","Colorado","Texas Tech",1
+"613","Colorado","TX Southern",1
+"614","Colorado","UCLA",1
+"615","Colorado","UNC Greensboro",1
+"616","Colorado","USC",1
+"617","Colorado","Utah St",0
+"618","Colorado","VCU",1
+"619","Colorado","Villanova",0
+"620","Colorado","Virginia",1
+"621","Colorado","Virginia Tech",0
+"622","Colorado","West Virginia",1
+"623","Colorado","Wichita St",1
+"624","Colorado","Winthrop",1
+"625","Colorado","Wisconsin",1
+"626","Connecticut","Creighton",0
+"627","Connecticut","Drake",0
+"628","Connecticut","Drexel",0
+"629","Connecticut","E Washington",1
+"630","Connecticut","Florida",0
+"631","Connecticut","Florida St",0
+"632","Connecticut","Georgetown",0
+"633","Connecticut","Georgia Tech",1
+"634","Connecticut","Gonzaga",0
+"635","Connecticut","Grand Canyon",0
+"636","Connecticut","Hartford",1
+"637","Connecticut","Houston",0
+"638","Connecticut","Illinois",0
+"639","Connecticut","Iona",0
+"640","Connecticut","Iowa",0
+"641","Connecticut","Kansas",0
+"642","Connecticut","Liberty",0
+"643","Connecticut","Loyola-Chicago",0
+"644","Connecticut","LSU",0
+"645","Connecticut","Maryland",0
+"646","Connecticut","Michigan",0
+"647","Connecticut","Michigan St",0
+"648","Connecticut","Missouri",1
+"649","Connecticut","Morehead St",0
+"650","Connecticut","Mt St Mary's",0
+"651","Connecticut","Norfolk St",1
+"652","Connecticut","North Carolina",0
+"653","Connecticut","North Texas",0
+"654","Connecticut","Ohio",0
+"655","Connecticut","Ohio St",0
+"656","Connecticut","Oklahoma",0
+"657","Connecticut","Oklahoma St",1
+"658","Connecticut","Oral Roberts",0
+"659","Connecticut","Oregon",0
+"660","Connecticut","Oregon St",0
+"661","Connecticut","Purdue",0
+"662","Connecticut","Rutgers",0
+"663","Connecticut","San Diego St",0
+"664","Connecticut","UC Santa Barbara",0
+"665","Connecticut","St Bonaventure",0
+"666","Connecticut","Syracuse",0
+"667","Connecticut","Tennessee",0
+"668","Connecticut","Texas",1
+"669","Connecticut","Texas Tech",0
+"670","Connecticut","TX Southern",1
+"671","Connecticut","UCLA",0
+"672","Connecticut","UNC Greensboro",1
+"673","Connecticut","USC",1
+"674","Connecticut","Utah St",0
+"675","Connecticut","VCU",0
+"676","Connecticut","Villanova",0
+"677","Connecticut","Virginia",1
+"678","Connecticut","Virginia Tech",0
+"679","Connecticut","West Virginia",1
+"680","Connecticut","Wichita St",1
+"681","Connecticut","Winthrop",0
+"682","Connecticut","Wisconsin",0
+"683","Creighton","Drake",1
+"684","Creighton","Drexel",1
+"685","Creighton","E Washington",1
+"686","Creighton","Florida",1
+"687","Creighton","Florida St",1
+"688","Creighton","Georgetown",0
+"689","Creighton","Georgia Tech",1
+"690","Creighton","Gonzaga",0
+"691","Creighton","Grand Canyon",1
+"692","Creighton","Hartford",1
+"693","Creighton","Houston",1
+"694","Creighton","Illinois",1
+"695","Creighton","Iona",1
+"696","Creighton","Iowa",0
+"697","Creighton","Kansas",1
+"698","Creighton","Liberty",0
+"699","Creighton","Loyola-Chicago",1
+"700","Creighton","LSU",0
+"701","Creighton","Maryland",1
+"702","Creighton","Michigan",0
+"703","Creighton","Michigan St",0
+"704","Creighton","Missouri",1
+"705","Creighton","Morehead St",1
+"706","Creighton","Mt St Mary's",1
+"707","Creighton","Norfolk St",1
+"708","Creighton","North Carolina",0
+"709","Creighton","North Texas",1
+"710","Creighton","Ohio",1
+"711","Creighton","Ohio St",1
+"712","Creighton","Oklahoma",0
+"713","Creighton","Oklahoma St",1
+"714","Creighton","Oral Roberts",0
+"715","Creighton","Oregon",0
+"716","Creighton","Oregon St",0
+"717","Creighton","Purdue",1
+"718","Creighton","Rutgers",1
+"719","Creighton","San Diego St",0
+"720","Creighton","UC Santa Barbara",1
+"721","Creighton","St Bonaventure",1
+"722","Creighton","Syracuse",0
+"723","Creighton","Tennessee",1
+"724","Creighton","Texas",1
+"725","Creighton","Texas Tech",1
+"726","Creighton","TX Southern",1
+"727","Creighton","UCLA",1
+"728","Creighton","UNC Greensboro",1
+"729","Creighton","USC",1
+"730","Creighton","Utah St",0
+"731","Creighton","VCU",1
+"732","Creighton","Villanova",1
+"733","Creighton","Virginia",1
+"734","Creighton","Virginia Tech",0
+"735","Creighton","West Virginia",1
+"736","Creighton","Wichita St",1
+"737","Creighton","Winthrop",1
+"738","Creighton","Wisconsin",1
+"739","Drake","Drexel",1
+"740","Drake","E Washington",1
+"741","Drake","Florida",0
+"742","Drake","Florida St",0
+"743","Drake","Georgetown",0
+"744","Drake","Georgia Tech",1
+"745","Drake","Gonzaga",0
+"746","Drake","Grand Canyon",0
+"747","Drake","Hartford",1
+"748","Drake","Houston",0
+"749","Drake","Illinois",0
+"750","Drake","Iona",1
+"751","Drake","Iowa",0
+"752","Drake","Kansas",0
+"753","Drake","Liberty",0
+"754","Drake","Loyola-Chicago",0
+"755","Drake","LSU",0
+"756","Drake","Maryland",0
+"757","Drake","Michigan",0
+"758","Drake","Michigan St",0
+"759","Drake","Missouri",1
+"760","Drake","Morehead St",1
+"761","Drake","Mt St Mary's",1
+"762","Drake","Norfolk St",1
+"763","Drake","North Carolina",0
+"764","Drake","North Texas",0
+"765","Drake","Ohio",0
+"766","Drake","Ohio St",0
+"767","Drake","Oklahoma",0
+"768","Drake","Oklahoma St",1
+"769","Drake","Oral Roberts",0
+"770","Drake","Oregon",0
+"771","Drake","Oregon St",0
+"772","Drake","Purdue",0
+"773","Drake","Rutgers",0
+"774","Drake","San Diego St",0
+"775","Drake","UC Santa Barbara",0
+"776","Drake","St Bonaventure",0
+"777","Drake","Syracuse",0
+"778","Drake","Tennessee",1
+"779","Drake","Texas",1
+"780","Drake","Texas Tech",0
+"781","Drake","TX Southern",1
+"782","Drake","UCLA",1
+"783","Drake","UNC Greensboro",1
+"784","Drake","USC",1
+"785","Drake","Utah St",0
+"786","Drake","VCU",1
+"787","Drake","Villanova",0
+"788","Drake","Virginia",1
+"789","Drake","Virginia Tech",0
+"790","Drake","West Virginia",1
+"791","Drake","Wichita St",1
+"792","Drake","Winthrop",1
+"793","Drake","Wisconsin",0
+"794","Drexel","E Washington",1
+"795","Drexel","Florida",0
+"796","Drexel","Florida St",1
+"797","Drexel","Georgetown",0
+"798","Drexel","Georgia Tech",1
+"799","Drexel","Gonzaga",0
+"800","Drexel","Grand Canyon",0
+"801","Drexel","Hartford",1
+"802","Drexel","Houston",0
+"803","Drexel","Illinois",0
+"804","Drexel","Iona",1
+"805","Drexel","Iowa",0
+"806","Drexel","Kansas",0
+"807","Drexel","Liberty",0
+"808","Drexel","Loyola-Chicago",0
+"809","Drexel","LSU",0
+"810","Drexel","Maryland",1
+"811","Drexel","Michigan",0
+"812","Drexel","Michigan St",0
+"813","Drexel","Missouri",1
+"814","Drexel","Morehead St",1
+"815","Drexel","Mt St Mary's",1
+"816","Drexel","Norfolk St",1
+"817","Drexel","North Carolina",0
+"818","Drexel","North Texas",0
+"819","Drexel","Ohio",0
+"820","Drexel","Ohio St",0
+"821","Drexel","Oklahoma",0
+"822","Drexel","Oklahoma St",1
+"823","Drexel","Oral Roberts",0
+"824","Drexel","Oregon",0
+"825","Drexel","Oregon St",0
+"826","Drexel","Purdue",0
+"827","Drexel","Rutgers",0
+"828","Drexel","San Diego St",0
+"829","Drexel","UC Santa Barbara",0
+"830","Drexel","St Bonaventure",0
+"831","Drexel","Syracuse",0
+"832","Drexel","Tennessee",1
+"833","Drexel","Texas",1
+"834","Drexel","Texas Tech",0
+"835","Drexel","TX Southern",1
+"836","Drexel","UCLA",1
+"837","Drexel","UNC Greensboro",1
+"838","Drexel","USC",1
+"839","Drexel","Utah St",0
+"840","Drexel","VCU",1
+"841","Drexel","Villanova",0
+"842","Drexel","Virginia",1
+"843","Drexel","Virginia Tech",0
+"844","Drexel","West Virginia",1
+"845","Drexel","Wichita St",1
+"846","Drexel","Winthrop",1
+"847","Drexel","Wisconsin",0
+"848","E Washington","Florida",0
+"849","E Washington","Florida St",0
+"850","E Washington","Georgetown",0
+"851","E Washington","Georgia Tech",1
+"852","E Washington","Gonzaga",0
+"853","E Washington","Grand Canyon",0
+"854","E Washington","Hartford",1
+"855","E Washington","Houston",0
+"856","E Washington","Illinois",0
+"857","E Washington","Iona",0
+"858","E Washington","Iowa",0
+"859","E Washington","Kansas",0
+"860","E Washington","Liberty",0
+"861","E Washington","Loyola-Chicago",0
+"862","E Washington","LSU",0
+"863","E Washington","Maryland",0
+"864","E Washington","Michigan",0
+"865","E Washington","Michigan St",0
+"866","E Washington","Missouri",1
+"867","E Washington","Morehead St",0
+"868","E Washington","Mt St Mary's",0
+"869","E Washington","Norfolk St",1
+"870","E Washington","North Carolina",0
+"871","E Washington","North Texas",0
+"872","E Washington","Ohio",0
+"873","E Washington","Ohio St",0
+"874","E Washington","Oklahoma",0
+"875","E Washington","Oklahoma St",0
+"876","E Washington","Oral Roberts",0
+"877","E Washington","Oregon",0
+"878","E Washington","Oregon St",0
+"879","E Washington","Purdue",0
+"880","E Washington","Rutgers",0
+"881","E Washington","San Diego St",0
+"882","E Washington","UC Santa Barbara",0
+"883","E Washington","St Bonaventure",0
+"884","E Washington","Syracuse",0
+"885","E Washington","Tennessee",0
+"886","E Washington","Texas",1
+"887","E Washington","Texas Tech",0
+"888","E Washington","TX Southern",1
+"889","E Washington","UCLA",0
+"890","E Washington","UNC Greensboro",0
+"891","E Washington","USC",0
+"892","E Washington","Utah St",0
+"893","E Washington","VCU",0
+"894","E Washington","Villanova",0
+"895","E Washington","Virginia",0
+"896","E Washington","Virginia Tech",0
+"897","E Washington","West Virginia",1
+"898","E Washington","Wichita St",1
+"899","E Washington","Winthrop",0
+"900","E Washington","Wisconsin",0
+"901","Florida","Florida St",1
+"902","Florida","Georgetown",0
+"903","Florida","Georgia Tech",1
+"904","Florida","Gonzaga",0
+"905","Florida","Grand Canyon",0
+"906","Florida","Hartford",1
+"907","Florida","Houston",1
+"908","Florida","Illinois",1
+"909","Florida","Iona",1
+"910","Florida","Iowa",0
+"911","Florida","Kansas",0
+"912","Florida","Liberty",0
+"913","Florida","Loyola-Chicago",0
+"914","Florida","LSU",0
+"915","Florida","Maryland",1
+"916","Florida","Michigan",0
+"917","Florida","Michigan St",0
+"918","Florida","Missouri",1
+"919","Florida","Morehead St",1
+"920","Florida","Mt St Mary's",1
+"921","Florida","Norfolk St",1
+"922","Florida","North Carolina",0
+"923","Florida","North Texas",1
+"924","Florida","Ohio",1
+"925","Florida","Ohio St",1
+"926","Florida","Oklahoma",0
+"927","Florida","Oklahoma St",1
+"928","Florida","Oral Roberts",0
+"929","Florida","Oregon",0
+"930","Florida","Oregon St",0
+"931","Florida","Purdue",1
+"932","Florida","Rutgers",1
+"933","Florida","San Diego St",0
+"934","Florida","UC Santa Barbara",1
+"935","Florida","St Bonaventure",1
+"936","Florida","Syracuse",0
+"937","Florida","Tennessee",1
+"938","Florida","Texas",1
+"939","Florida","Texas Tech",1
+"940","Florida","TX Southern",1
+"941","Florida","UCLA",1
+"942","Florida","UNC Greensboro",1
+"943","Florida","USC",1
+"944","Florida","Utah St",0
+"945","Florida","VCU",1
+"946","Florida","Villanova",0
+"947","Florida","Virginia",1
+"948","Florida","Virginia Tech",0
+"949","Florida","West Virginia",1
+"950","Florida","Wichita St",1
+"951","Florida","Winthrop",1
+"952","Florida","Wisconsin",1
+"953","Florida St","Georgetown",0
+"954","Florida St","Georgia Tech",1
+"955","Florida St","Gonzaga",0
+"956","Florida St","Grand Canyon",0
+"957","Florida St","Hartford",1
+"958","Florida St","Houston",0
+"959","Florida St","Illinois",0
+"960","Florida St","Iona",1
+"961","Florida St","Iowa",0
+"962","Florida St","Kansas",0
+"963","Florida St","Liberty",0
+"964","Florida St","Loyola-Chicago",0
+"965","Florida St","LSU",0
+"966","Florida St","Maryland",0
+"967","Florida St","Michigan",0
+"968","Florida St","Michigan St",0
+"969","Florida St","Missouri",1
+"970","Florida St","Morehead St",0
+"971","Florida St","Mt St Mary's",1
+"972","Florida St","Norfolk St",1
+"973","Florida St","North Carolina",0
+"974","Florida St","North Texas",0
+"975","Florida St","Ohio",0
+"976","Florida St","Ohio St",0
+"977","Florida St","Oklahoma",0
+"978","Florida St","Oklahoma St",1
+"979","Florida St","Oral Roberts",0
+"980","Florida St","Oregon",0
+"981","Florida St","Oregon St",0
+"982","Florida St","Purdue",0
+"983","Florida St","Rutgers",0
+"984","Florida St","San Diego St",0
+"985","Florida St","UC Santa Barbara",0
+"986","Florida St","St Bonaventure",0
+"987","Florida St","Syracuse",0
+"988","Florida St","Tennessee",1
+"989","Florida St","Texas",1
+"990","Florida St","Texas Tech",0
+"991","Florida St","TX Southern",1
+"992","Florida St","UCLA",1
+"993","Florida St","UNC Greensboro",1
+"994","Florida St","USC",1
+"995","Florida St","Utah St",0
+"996","Florida St","VCU",0
+"997","Florida St","Villanova",0
+"998","Florida St","Virginia",1
+"999","Florida St","Virginia Tech",0
+"1000","Florida St","West Virginia",1
+"1001","Florida St","Wichita St",1
+"1002","Florida St","Winthrop",1
+"1003","Florida St","Wisconsin",0
+"1004","Georgetown","Georgia Tech",1
+"1005","Georgetown","Gonzaga",0
+"1006","Georgetown","Grand Canyon",1
+"1007","Georgetown","Hartford",1
+"1008","Georgetown","Houston",1
+"1009","Georgetown","Illinois",1
+"1010","Georgetown","Iona",1
+"1011","Georgetown","Iowa",0
+"1012","Georgetown","Kansas",1
+"1013","Georgetown","Liberty",0
+"1014","Georgetown","Loyola-Chicago",1
+"1015","Georgetown","LSU",0
+"1016","Georgetown","Maryland",1
+"1017","Georgetown","Michigan",0
+"1018","Georgetown","Michigan St",0
+"1019","Georgetown","Missouri",1
+"1020","Georgetown","Morehead St",1
+"1021","Georgetown","Mt St Mary's",1
+"1022","Georgetown","Norfolk St",1
+"1023","Georgetown","North Carolina",1
+"1024","Georgetown","North Texas",1
+"1025","Georgetown","Ohio",1
+"1026","Georgetown","Ohio St",1
+"1027","Georgetown","Oklahoma",1
+"1028","Georgetown","Oklahoma St",1
+"1029","Georgetown","Oral Roberts",0
+"1030","Georgetown","Oregon",1
+"1031","Georgetown","Oregon St",1
+"1032","Georgetown","Purdue",1
+"1033","Georgetown","Rutgers",1
+"1034","Georgetown","San Diego St",1
+"1035","Georgetown","UC Santa Barbara",1
+"1036","Georgetown","St Bonaventure",1
+"1037","Georgetown","Syracuse",1
+"1038","Georgetown","Tennessee",1
+"1039","Georgetown","Texas",1
+"1040","Georgetown","Texas Tech",1
+"1041","Georgetown","TX Southern",1
+"1042","Georgetown","UCLA",1
+"1043","Georgetown","UNC Greensboro",1
+"1044","Georgetown","USC",1
+"1045","Georgetown","Utah St",1
+"1046","Georgetown","VCU",1
+"1047","Georgetown","Villanova",1
+"1048","Georgetown","Virginia",1
+"1049","Georgetown","Virginia Tech",1
+"1050","Georgetown","West Virginia",1
+"1051","Georgetown","Wichita St",1
+"1052","Georgetown","Winthrop",1
+"1053","Georgetown","Wisconsin",1
+"1054","Georgia Tech","Gonzaga",0
+"1055","Georgia Tech","Grand Canyon",0
+"1056","Georgia Tech","Hartford",1
+"1057","Georgia Tech","Houston",0
+"1058","Georgia Tech","Illinois",0
+"1059","Georgia Tech","Iona",0
+"1060","Georgia Tech","Iowa",0
+"1061","Georgia Tech","Kansas",0
+"1062","Georgia Tech","Liberty",0
+"1063","Georgia Tech","Loyola-Chicago",0
+"1064","Georgia Tech","LSU",0
+"1065","Georgia Tech","Maryland",0
+"1066","Georgia Tech","Michigan",0
+"1067","Georgia Tech","Michigan St",0
+"1068","Georgia Tech","Missouri",1
+"1069","Georgia Tech","Morehead St",0
+"1070","Georgia Tech","Mt St Mary's",0
+"1071","Georgia Tech","Norfolk St",1
+"1072","Georgia Tech","North Carolina",0
+"1073","Georgia Tech","North Texas",0
+"1074","Georgia Tech","Ohio",0
+"1075","Georgia Tech","Ohio St",0
+"1076","Georgia Tech","Oklahoma",0
+"1077","Georgia Tech","Oklahoma St",0
+"1078","Georgia Tech","Oral Roberts",0
+"1079","Georgia Tech","Oregon",0
+"1080","Georgia Tech","Oregon St",0
+"1081","Georgia Tech","Purdue",0
+"1082","Georgia Tech","Rutgers",0
+"1083","Georgia Tech","San Diego St",0
+"1084","Georgia Tech","UC Santa Barbara",0
+"1085","Georgia Tech","St Bonaventure",0
+"1086","Georgia Tech","Syracuse",0
+"1087","Georgia Tech","Tennessee",0
+"1088","Georgia Tech","Texas",1
+"1089","Georgia Tech","Texas Tech",0
+"1090","Georgia Tech","TX Southern",1
+"1091","Georgia Tech","UCLA",0
+"1092","Georgia Tech","UNC Greensboro",0
+"1093","Georgia Tech","USC",0
+"1094","Georgia Tech","Utah St",0
+"1095","Georgia Tech","VCU",0
+"1096","Georgia Tech","Villanova",0
+"1097","Georgia Tech","Virginia",0
+"1098","Georgia Tech","Virginia Tech",0
+"1099","Georgia Tech","West Virginia",1
+"1100","Georgia Tech","Wichita St",1
+"1101","Georgia Tech","Winthrop",0
+"1102","Georgia Tech","Wisconsin",0
+"1103","Gonzaga","Grand Canyon",1
+"1104","Gonzaga","Hartford",1
+"1105","Gonzaga","Houston",1
+"1106","Gonzaga","Illinois",1
+"1107","Gonzaga","Iona",1
+"1108","Gonzaga","Iowa",1
+"1109","Gonzaga","Kansas",1
+"1110","Gonzaga","Liberty",1
+"1111","Gonzaga","Loyola-Chicago",1
+"1112","Gonzaga","LSU",1
+"1113","Gonzaga","Maryland",1
+"1114","Gonzaga","Michigan",1
+"1115","Gonzaga","Michigan St",1
+"1116","Gonzaga","Missouri",1
+"1117","Gonzaga","Morehead St",1
+"1118","Gonzaga","Mt St Mary's",1
+"1119","Gonzaga","Norfolk St",1
+"1120","Gonzaga","North Carolina",1
+"1121","Gonzaga","North Texas",1
+"1122","Gonzaga","Ohio",1
+"1123","Gonzaga","Ohio St",1
+"1124","Gonzaga","Oklahoma",1
+"1125","Gonzaga","Oklahoma St",1
+"1126","Gonzaga","Oral Roberts",1
+"1127","Gonzaga","Oregon",1
+"1128","Gonzaga","Oregon St",1
+"1129","Gonzaga","Purdue",1
+"1130","Gonzaga","Rutgers",1
+"1131","Gonzaga","San Diego St",1
+"1132","Gonzaga","UC Santa Barbara",1
+"1133","Gonzaga","St Bonaventure",1
+"1134","Gonzaga","Syracuse",1
+"1135","Gonzaga","Tennessee",1
+"1136","Gonzaga","Texas",1
+"1137","Gonzaga","Texas Tech",1
+"1138","Gonzaga","TX Southern",1
+"1139","Gonzaga","UCLA",1
+"1140","Gonzaga","UNC Greensboro",1
+"1141","Gonzaga","USC",1
+"1142","Gonzaga","Utah St",1
+"1143","Gonzaga","VCU",1
+"1144","Gonzaga","Villanova",1
+"1145","Gonzaga","Virginia",1
+"1146","Gonzaga","Virginia Tech",1
+"1147","Gonzaga","West Virginia",1
+"1148","Gonzaga","Wichita St",1
+"1149","Gonzaga","Winthrop",1
+"1150","Gonzaga","Wisconsin",1
+"1151","Grand Canyon","Hartford",1
+"1152","Grand Canyon","Houston",1
+"1153","Grand Canyon","Illinois",1
+"1154","Grand Canyon","Iona",1
+"1155","Grand Canyon","Iowa",0
+"1156","Grand Canyon","Kansas",0
+"1157","Grand Canyon","Liberty",0
+"1158","Grand Canyon","Loyola-Chicago",0
+"1159","Grand Canyon","LSU",0
+"1160","Grand Canyon","Maryland",1
+"1161","Grand Canyon","Michigan",0
+"1162","Grand Canyon","Michigan St",0
+"1163","Grand Canyon","Missouri",1
+"1164","Grand Canyon","Morehead St",1
+"1165","Grand Canyon","Mt St Mary's",1
+"1166","Grand Canyon","Norfolk St",1
+"1167","Grand Canyon","North Carolina",0
+"1168","Grand Canyon","North Texas",1
+"1169","Grand Canyon","Ohio",1
+"1170","Grand Canyon","Ohio St",1
+"1171","Grand Canyon","Oklahoma",0
+"1172","Grand Canyon","Oklahoma St",1
+"1173","Grand Canyon","Oral Roberts",0
+"1174","Grand Canyon","Oregon",0
+"1175","Grand Canyon","Oregon St",0
+"1176","Grand Canyon","Purdue",1
+"1177","Grand Canyon","Rutgers",0
+"1178","Grand Canyon","San Diego St",0
+"1179","Grand Canyon","UC Santa Barbara",1
+"1180","Grand Canyon","St Bonaventure",0
+"1181","Grand Canyon","Syracuse",0
+"1182","Grand Canyon","Tennessee",1
+"1183","Grand Canyon","Texas",1
+"1184","Grand Canyon","Texas Tech",1
+"1185","Grand Canyon","TX Southern",1
+"1186","Grand Canyon","UCLA",1
+"1187","Grand Canyon","UNC Greensboro",1
+"1188","Grand Canyon","USC",1
+"1189","Grand Canyon","Utah St",0
+"1190","Grand Canyon","VCU",1
+"1191","Grand Canyon","Villanova",0
+"1192","Grand Canyon","Virginia",1
+"1193","Grand Canyon","Virginia Tech",0
+"1194","Grand Canyon","West Virginia",1
+"1195","Grand Canyon","Wichita St",1
+"1196","Grand Canyon","Winthrop",1
+"1197","Grand Canyon","Wisconsin",1
+"1198","Hartford","Houston",0
+"1199","Hartford","Illinois",0
+"1200","Hartford","Iona",0
+"1201","Hartford","Iowa",0
+"1202","Hartford","Kansas",0
+"1203","Hartford","Liberty",0
+"1204","Hartford","Loyola-Chicago",0
+"1205","Hartford","LSU",0
+"1206","Hartford","Maryland",0
+"1207","Hartford","Michigan",0
+"1208","Hartford","Michigan St",0
+"1209","Hartford","Missouri",1
+"1210","Hartford","Morehead St",0
+"1211","Hartford","Mt St Mary's",0
+"1212","Hartford","Norfolk St",1
+"1213","Hartford","North Carolina",0
+"1214","Hartford","North Texas",0
+"1215","Hartford","Ohio",0
+"1216","Hartford","Ohio St",0
+"1217","Hartford","Oklahoma",0
+"1218","Hartford","Oklahoma St",0
+"1219","Hartford","Oral Roberts",0
+"1220","Hartford","Oregon",0
+"1221","Hartford","Oregon St",0
+"1222","Hartford","Purdue",0
+"1223","Hartford","Rutgers",0
+"1224","Hartford","San Diego St",0
+"1225","Hartford","UC Santa Barbara",0
+"1226","Hartford","St Bonaventure",0
+"1227","Hartford","Syracuse",0
+"1228","Hartford","Tennessee",0
+"1229","Hartford","Texas",1
+"1230","Hartford","Texas Tech",0
+"1231","Hartford","TX Southern",1
+"1232","Hartford","UCLA",0
+"1233","Hartford","UNC Greensboro",0
+"1234","Hartford","USC",0
+"1235","Hartford","Utah St",0
+"1236","Hartford","VCU",0
+"1237","Hartford","Villanova",0
+"1238","Hartford","Virginia",0
+"1239","Hartford","Virginia Tech",0
+"1240","Hartford","West Virginia",0
+"1241","Hartford","Wichita St",0
+"1242","Hartford","Winthrop",0
+"1243","Hartford","Wisconsin",0
+"1244","Houston","Illinois",0
+"1245","Houston","Iona",1
+"1246","Houston","Iowa",0
+"1247","Houston","Kansas",0
+"1248","Houston","Liberty",0
+"1249","Houston","Loyola-Chicago",0
+"1250","Houston","LSU",0
+"1251","Houston","Maryland",1
+"1252","Houston","Michigan",0
+"1253","Houston","Michigan St",0
+"1254","Houston","Missouri",1
+"1255","Houston","Morehead St",1
+"1256","Houston","Mt St Mary's",1
+"1257","Houston","Norfolk St",1
+"1258","Houston","North Carolina",0
+"1259","Houston","North Texas",1
+"1260","Houston","Ohio",1
+"1261","Houston","Ohio St",1
+"1262","Houston","Oklahoma",0
+"1263","Houston","Oklahoma St",1
+"1264","Houston","Oral Roberts",0
+"1265","Houston","Oregon",0
+"1266","Houston","Oregon St",0
+"1267","Houston","Purdue",1
+"1268","Houston","Rutgers",0
+"1269","Houston","San Diego St",0
+"1270","Houston","UC Santa Barbara",1
+"1271","Houston","St Bonaventure",0
+"1272","Houston","Syracuse",0
+"1273","Houston","Tennessee",1
+"1274","Houston","Texas",1
+"1275","Houston","Texas Tech",1
+"1276","Houston","TX Southern",1
+"1277","Houston","UCLA",1
+"1278","Houston","UNC Greensboro",1
+"1279","Houston","USC",1
+"1280","Houston","Utah St",0
+"1281","Houston","VCU",1
+"1282","Houston","Villanova",0
+"1283","Houston","Virginia",1
+"1284","Houston","Virginia Tech",0
+"1285","Houston","West Virginia",1
+"1286","Houston","Wichita St",1
+"1287","Houston","Winthrop",1
+"1288","Houston","Wisconsin",0
+"1289","Illinois","Iona",1
+"1290","Illinois","Iowa",0
+"1291","Illinois","Kansas",0
+"1292","Illinois","Liberty",0
+"1293","Illinois","Loyola-Chicago",0
+"1294","Illinois","LSU",0
+"1295","Illinois","Maryland",1
+"1296","Illinois","Michigan",0
+"1297","Illinois","Michigan St",0
+"1298","Illinois","Missouri",1
+"1299","Illinois","Morehead St",1
+"1300","Illinois","Mt St Mary's",1
+"1301","Illinois","Norfolk St",1
+"1302","Illinois","North Carolina",0
+"1303","Illinois","North Texas",1
+"1304","Illinois","Ohio",1
+"1305","Illinois","Ohio St",1
+"1306","Illinois","Oklahoma",0
+"1307","Illinois","Oklahoma St",1
+"1308","Illinois","Oral Roberts",0
+"1309","Illinois","Oregon",0
+"1310","Illinois","Oregon St",0
+"1311","Illinois","Purdue",1
+"1312","Illinois","Rutgers",1
+"1313","Illinois","San Diego St",0
+"1314","Illinois","UC Santa Barbara",1
+"1315","Illinois","St Bonaventure",1
+"1316","Illinois","Syracuse",0
+"1317","Illinois","Tennessee",1
+"1318","Illinois","Texas",1
+"1319","Illinois","Texas Tech",1
+"1320","Illinois","TX Southern",1
+"1321","Illinois","UCLA",1
+"1322","Illinois","UNC Greensboro",1
+"1323","Illinois","USC",1
+"1324","Illinois","Utah St",0
+"1325","Illinois","VCU",1
+"1326","Illinois","Villanova",0
+"1327","Illinois","Virginia",1
+"1328","Illinois","Virginia Tech",0
+"1329","Illinois","West Virginia",1
+"1330","Illinois","Wichita St",1
+"1331","Illinois","Winthrop",1
+"1332","Illinois","Wisconsin",1
+"1333","Iona","Iowa",0
+"1334","Iona","Kansas",0
+"1335","Iona","Liberty",0
+"1336","Iona","Loyola-Chicago",0
+"1337","Iona","LSU",0
+"1338","Iona","Maryland",0
+"1339","Iona","Michigan",0
+"1340","Iona","Michigan St",0
+"1341","Iona","Missouri",1
+"1342","Iona","Morehead St",0
+"1343","Iona","Mt St Mary's",0
+"1344","Iona","Norfolk St",1
+"1345","Iona","North Carolina",0
+"1346","Iona","North Texas",0
+"1347","Iona","Ohio",0
+"1348","Iona","Ohio St",0
+"1349","Iona","Oklahoma",0
+"1350","Iona","Oklahoma St",0
+"1351","Iona","Oral Roberts",0
+"1352","Iona","Oregon",0
+"1353","Iona","Oregon St",0
+"1354","Iona","Purdue",0
+"1355","Iona","Rutgers",0
+"1356","Iona","San Diego St",0
+"1357","Iona","UC Santa Barbara",0
+"1358","Iona","St Bonaventure",0
+"1359","Iona","Syracuse",0
+"1360","Iona","Tennessee",0
+"1361","Iona","Texas",1
+"1362","Iona","Texas Tech",0
+"1363","Iona","TX Southern",1
+"1364","Iona","UCLA",0
+"1365","Iona","UNC Greensboro",0
+"1366","Iona","USC",1
+"1367","Iona","Utah St",0
+"1368","Iona","VCU",0
+"1369","Iona","Villanova",0
+"1370","Iona","Virginia",0
+"1371","Iona","Virginia Tech",0
+"1372","Iona","West Virginia",1
+"1373","Iona","Wichita St",1
+"1374","Iona","Winthrop",0
+"1375","Iona","Wisconsin",0
+"1376","Iowa","Kansas",1
+"1377","Iowa","Liberty",1
+"1378","Iowa","Loyola-Chicago",1
+"1379","Iowa","LSU",0
+"1380","Iowa","Maryland",1
+"1381","Iowa","Michigan",0
+"1382","Iowa","Michigan St",1
+"1383","Iowa","Missouri",1
+"1384","Iowa","Morehead St",1
+"1385","Iowa","Mt St Mary's",1
+"1386","Iowa","Norfolk St",1
+"1387","Iowa","North Carolina",1
+"1388","Iowa","North Texas",1
+"1389","Iowa","Ohio",1
+"1390","Iowa","Ohio St",1
+"1391","Iowa","Oklahoma",1
+"1392","Iowa","Oklahoma St",1
+"1393","Iowa","Oral Roberts",0
+"1394","Iowa","Oregon",1
+"1395","Iowa","Oregon St",1
+"1396","Iowa","Purdue",1
+"1397","Iowa","Rutgers",1
+"1398","Iowa","San Diego St",1
+"1399","Iowa","UC Santa Barbara",1
+"1400","Iowa","St Bonaventure",1
+"1401","Iowa","Syracuse",1
+"1402","Iowa","Tennessee",1
+"1403","Iowa","Texas",1
+"1404","Iowa","Texas Tech",1
+"1405","Iowa","TX Southern",1
+"1406","Iowa","UCLA",1
+"1407","Iowa","UNC Greensboro",1
+"1408","Iowa","USC",1
+"1409","Iowa","Utah St",1
+"1410","Iowa","VCU",1
+"1411","Iowa","Villanova",1
+"1412","Iowa","Virginia",1
+"1413","Iowa","Virginia Tech",1
+"1414","Iowa","West Virginia",1
+"1415","Iowa","Wichita St",1
+"1416","Iowa","Winthrop",1
+"1417","Iowa","Wisconsin",1
+"1418","Kansas","Liberty",0
+"1419","Kansas","Loyola-Chicago",0
+"1420","Kansas","LSU",0
+"1421","Kansas","Maryland",1
+"1422","Kansas","Michigan",0
+"1423","Kansas","Michigan St",0
+"1424","Kansas","Missouri",1
+"1425","Kansas","Morehead St",1
+"1426","Kansas","Mt St Mary's",1
+"1427","Kansas","Norfolk St",1
+"1428","Kansas","North Carolina",0
+"1429","Kansas","North Texas",1
+"1430","Kansas","Ohio",1
+"1431","Kansas","Ohio St",1
+"1432","Kansas","Oklahoma",0
+"1433","Kansas","Oklahoma St",1
+"1434","Kansas","Oral Roberts",0
+"1435","Kansas","Oregon",0
+"1436","Kansas","Oregon St",0
+"1437","Kansas","Purdue",1
+"1438","Kansas","Rutgers",0
+"1439","Kansas","San Diego St",0
+"1440","Kansas","UC Santa Barbara",1
+"1441","Kansas","St Bonaventure",0
+"1442","Kansas","Syracuse",0
+"1443","Kansas","Tennessee",1
+"1444","Kansas","Texas",1
+"1445","Kansas","Texas Tech",1
+"1446","Kansas","TX Southern",1
+"1447","Kansas","UCLA",1
+"1448","Kansas","UNC Greensboro",1
+"1449","Kansas","USC",1
+"1450","Kansas","Utah St",0
+"1451","Kansas","VCU",1
+"1452","Kansas","Villanova",0
+"1453","Kansas","Virginia",1
+"1454","Kansas","Virginia Tech",0
+"1455","Kansas","West Virginia",1
+"1456","Kansas","Wichita St",1
+"1457","Kansas","Winthrop",1
+"1458","Kansas","Wisconsin",0
+"1459","Liberty","Loyola-Chicago",1
+"1460","Liberty","LSU",0
+"1461","Liberty","Maryland",1
+"1462","Liberty","Michigan",0
+"1463","Liberty","Michigan St",0
+"1464","Liberty","Missouri",1
+"1465","Liberty","Morehead St",1
+"1466","Liberty","Mt St Mary's",1
+"1467","Liberty","Norfolk St",1
+"1468","Liberty","North Carolina",0
+"1469","Liberty","North Texas",1
+"1470","Liberty","Ohio",1
+"1471","Liberty","Ohio St",1
+"1472","Liberty","Oklahoma",1
+"1473","Liberty","Oklahoma St",1
+"1474","Liberty","Oral Roberts",0
+"1475","Liberty","Oregon",0
+"1476","Liberty","Oregon St",0
+"1477","Liberty","Purdue",1
+"1478","Liberty","Rutgers",1
+"1479","Liberty","San Diego St",0
+"1480","Liberty","UC Santa Barbara",1
+"1481","Liberty","St Bonaventure",1
+"1482","Liberty","Syracuse",0
+"1483","Liberty","Tennessee",1
+"1484","Liberty","Texas",1
+"1485","Liberty","Texas Tech",1
+"1486","Liberty","TX Southern",1
+"1487","Liberty","UCLA",1
+"1488","Liberty","UNC Greensboro",1
+"1489","Liberty","USC",1
+"1490","Liberty","Utah St",0
+"1491","Liberty","VCU",1
+"1492","Liberty","Villanova",1
+"1493","Liberty","Virginia",1
+"1494","Liberty","Virginia Tech",0
+"1495","Liberty","West Virginia",1
+"1496","Liberty","Wichita St",1
+"1497","Liberty","Winthrop",1
+"1498","Liberty","Wisconsin",1
+"1499","Loyola-Chicago","LSU",0
+"1500","Loyola-Chicago","Maryland",1
+"1501","Loyola-Chicago","Michigan",0
+"1502","Loyola-Chicago","Michigan St",0
+"1503","Loyola-Chicago","Missouri",1
+"1504","Loyola-Chicago","Morehead St",1
+"1505","Loyola-Chicago","Mt St Mary's",1
+"1506","Loyola-Chicago","Norfolk St",1
+"1507","Loyola-Chicago","North Carolina",0
+"1508","Loyola-Chicago","North Texas",1
+"1509","Loyola-Chicago","Ohio",1
+"1510","Loyola-Chicago","Ohio St",1
+"1511","Loyola-Chicago","Oklahoma",0
+"1512","Loyola-Chicago","Oklahoma St",1
+"1513","Loyola-Chicago","Oral Roberts",0
+"1514","Loyola-Chicago","Oregon",0
+"1515","Loyola-Chicago","Oregon St",0
+"1516","Loyola-Chicago","Purdue",1
+"1517","Loyola-Chicago","Rutgers",1
+"1518","Loyola-Chicago","San Diego St",0
+"1519","Loyola-Chicago","UC Santa Barbara",1
+"1520","Loyola-Chicago","St Bonaventure",1
+"1521","Loyola-Chicago","Syracuse",0
+"1522","Loyola-Chicago","Tennessee",1
+"1523","Loyola-Chicago","Texas",1
+"1524","Loyola-Chicago","Texas Tech",1
+"1525","Loyola-Chicago","TX Southern",1
+"1526","Loyola-Chicago","UCLA",1
+"1527","Loyola-Chicago","UNC Greensboro",1
+"1528","Loyola-Chicago","USC",1
+"1529","Loyola-Chicago","Utah St",0
+"1530","Loyola-Chicago","VCU",1
+"1531","Loyola-Chicago","Villanova",0
+"1532","Loyola-Chicago","Virginia",1
+"1533","Loyola-Chicago","Virginia Tech",0
+"1534","Loyola-Chicago","West Virginia",1
+"1535","Loyola-Chicago","Wichita St",1
+"1536","Loyola-Chicago","Winthrop",1
+"1537","Loyola-Chicago","Wisconsin",1
+"1538","LSU","Maryland",1
+"1539","LSU","Michigan",0
+"1540","LSU","Michigan St",1
+"1541","LSU","Missouri",1
+"1542","LSU","Morehead St",1
+"1543","LSU","Mt St Mary's",1
+"1544","LSU","Norfolk St",1
+"1545","LSU","North Carolina",1
+"1546","LSU","North Texas",1
+"1547","LSU","Ohio",1
+"1548","LSU","Ohio St",1
+"1549","LSU","Oklahoma",1
+"1550","LSU","Oklahoma St",1
+"1551","LSU","Oral Roberts",0
+"1552","LSU","Oregon",1
+"1553","LSU","Oregon St",1
+"1554","LSU","Purdue",1
+"1555","LSU","Rutgers",1
+"1556","LSU","San Diego St",1
+"1557","LSU","UC Santa Barbara",1
+"1558","LSU","St Bonaventure",1
+"1559","LSU","Syracuse",1
+"1560","LSU","Tennessee",1
+"1561","LSU","Texas",1
+"1562","LSU","Texas Tech",1
+"1563","LSU","TX Southern",1
+"1564","LSU","UCLA",1
+"1565","LSU","UNC Greensboro",1
+"1566","LSU","USC",1
+"1567","LSU","Utah St",1
+"1568","LSU","VCU",1
+"1569","LSU","Villanova",1
+"1570","LSU","Virginia",1
+"1571","LSU","Virginia Tech",1
+"1572","LSU","West Virginia",1
+"1573","LSU","Wichita St",1
+"1574","LSU","Winthrop",1
+"1575","LSU","Wisconsin",1
+"1576","Maryland","Michigan",0
+"1577","Maryland","Michigan St",0
+"1578","Maryland","Missouri",1
+"1579","Maryland","Morehead St",1
+"1580","Maryland","Mt St Mary's",1
+"1581","Maryland","Norfolk St",1
+"1582","Maryland","North Carolina",0
+"1583","Maryland","North Texas",0
+"1584","Maryland","Ohio",0
+"1585","Maryland","Ohio St",0
+"1586","Maryland","Oklahoma",0
+"1587","Maryland","Oklahoma St",1
+"1588","Maryland","Oral Roberts",0
+"1589","Maryland","Oregon",0
+"1590","Maryland","Oregon St",0
+"1591","Maryland","Purdue",0
+"1592","Maryland","Rutgers",0
+"1593","Maryland","San Diego St",0
+"1594","Maryland","UC Santa Barbara",0
+"1595","Maryland","St Bonaventure",0
+"1596","Maryland","Syracuse",0
+"1597","Maryland","Tennessee",1
+"1598","Maryland","Texas",1
+"1599","Maryland","Texas Tech",0
+"1600","Maryland","TX Southern",1
+"1601","Maryland","UCLA",1
+"1602","Maryland","UNC Greensboro",1
+"1603","Maryland","USC",1
+"1604","Maryland","Utah St",0
+"1605","Maryland","VCU",1
+"1606","Maryland","Villanova",0
+"1607","Maryland","Virginia",1
+"1608","Maryland","Virginia Tech",0
+"1609","Maryland","West Virginia",1
+"1610","Maryland","Wichita St",1
+"1611","Maryland","Winthrop",1
+"1612","Maryland","Wisconsin",0
+"1613","Michigan","Michigan St",1
+"1614","Michigan","Missouri",1
+"1615","Michigan","Morehead St",1
+"1616","Michigan","Mt St Mary's",1
+"1617","Michigan","Norfolk St",1
+"1618","Michigan","North Carolina",1
+"1619","Michigan","North Texas",1
+"1620","Michigan","Ohio",1
+"1621","Michigan","Ohio St",1
+"1622","Michigan","Oklahoma",1
+"1623","Michigan","Oklahoma St",1
+"1624","Michigan","Oral Roberts",0
+"1625","Michigan","Oregon",1
+"1626","Michigan","Oregon St",1
+"1627","Michigan","Purdue",1
+"1628","Michigan","Rutgers",1
+"1629","Michigan","San Diego St",1
+"1630","Michigan","UC Santa Barbara",1
+"1631","Michigan","St Bonaventure",1
+"1632","Michigan","Syracuse",1
+"1633","Michigan","Tennessee",1
+"1634","Michigan","Texas",1
+"1635","Michigan","Texas Tech",1
+"1636","Michigan","TX Southern",1
+"1637","Michigan","UCLA",1
+"1638","Michigan","UNC Greensboro",1
+"1639","Michigan","USC",1
+"1640","Michigan","Utah St",1
+"1641","Michigan","VCU",1
+"1642","Michigan","Villanova",1
+"1643","Michigan","Virginia",1
+"1644","Michigan","Virginia Tech",1
+"1645","Michigan","West Virginia",1
+"1646","Michigan","Wichita St",1
+"1647","Michigan","Winthrop",1
+"1648","Michigan","Wisconsin",1
+"1649","Michigan St","Missouri",1
+"1650","Michigan St","Morehead St",1
+"1651","Michigan St","Mt St Mary's",1
+"1652","Michigan St","Norfolk St",1
+"1653","Michigan St","North Carolina",1
+"1654","Michigan St","North Texas",1
+"1655","Michigan St","Ohio",1
+"1656","Michigan St","Ohio St",1
+"1657","Michigan St","Oklahoma",1
+"1658","Michigan St","Oklahoma St",1
+"1659","Michigan St","Oral Roberts",0
+"1660","Michigan St","Oregon",1
+"1661","Michigan St","Oregon St",1
+"1662","Michigan St","Purdue",1
+"1663","Michigan St","Rutgers",1
+"1664","Michigan St","San Diego St",0
+"1665","Michigan St","UC Santa Barbara",1
+"1666","Michigan St","St Bonaventure",1
+"1667","Michigan St","Syracuse",1
+"1668","Michigan St","Tennessee",1
+"1669","Michigan St","Texas",1
+"1670","Michigan St","Texas Tech",1
+"1671","Michigan St","TX Southern",1
+"1672","Michigan St","UCLA",1
+"1673","Michigan St","UNC Greensboro",1
+"1674","Michigan St","USC",1
+"1675","Michigan St","Utah St",1
+"1676","Michigan St","VCU",1
+"1677","Michigan St","Villanova",1
+"1678","Michigan St","Virginia",1
+"1679","Michigan St","Virginia Tech",0
+"1680","Michigan St","West Virginia",1
+"1681","Michigan St","Wichita St",1
+"1682","Michigan St","Winthrop",1
+"1683","Michigan St","Wisconsin",1
+"1684","Missouri","Morehead St",0
+"1685","Missouri","Mt St Mary's",0
+"1686","Missouri","Norfolk St",1
+"1687","Missouri","North Carolina",0
+"1688","Missouri","North Texas",0
+"1689","Missouri","Ohio",0
+"1690","Missouri","Ohio St",0
+"1691","Missouri","Oklahoma",0
+"1692","Missouri","Oklahoma St",0
+"1693","Missouri","Oral Roberts",0
+"1694","Missouri","Oregon",0
+"1695","Missouri","Oregon St",0
+"1696","Missouri","Purdue",0
+"1697","Missouri","Rutgers",0
+"1698","Missouri","San Diego St",0
+"1699","Missouri","UC Santa Barbara",0
+"1700","Missouri","St Bonaventure",0
+"1701","Missouri","Syracuse",0
+"1702","Missouri","Tennessee",0
+"1703","Missouri","Texas",1
+"1704","Missouri","Texas Tech",0
+"1705","Missouri","TX Southern",1
+"1706","Missouri","UCLA",0
+"1707","Missouri","UNC Greensboro",0
+"1708","Missouri","USC",0
+"1709","Missouri","Utah St",0
+"1710","Missouri","VCU",0
+"1711","Missouri","Villanova",0
+"1712","Missouri","Virginia",0
+"1713","Missouri","Virginia Tech",0
+"1714","Missouri","West Virginia",0
+"1715","Missouri","Wichita St",0
+"1716","Missouri","Winthrop",0
+"1717","Missouri","Wisconsin",0
+"1718","Morehead St","Mt St Mary's",1
+"1719","Morehead St","Norfolk St",1
+"1720","Morehead St","North Carolina",0
+"1721","Morehead St","North Texas",0
+"1722","Morehead St","Ohio",0
+"1723","Morehead St","Ohio St",0
+"1724","Morehead St","Oklahoma",0
+"1725","Morehead St","Oklahoma St",1
+"1726","Morehead St","Oral Roberts",0
+"1727","Morehead St","Oregon",0
+"1728","Morehead St","Oregon St",0
+"1729","Morehead St","Purdue",0
+"1730","Morehead St","Rutgers",0
+"1731","Morehead St","San Diego St",0
+"1732","Morehead St","UC Santa Barbara",0
+"1733","Morehead St","St Bonaventure",0
+"1734","Morehead St","Syracuse",0
+"1735","Morehead St","Tennessee",1
+"1736","Morehead St","Texas",1
+"1737","Morehead St","Texas Tech",0
+"1738","Morehead St","TX Southern",1
+"1739","Morehead St","UCLA",0
+"1740","Morehead St","UNC Greensboro",1
+"1741","Morehead St","USC",1
+"1742","Morehead St","Utah St",0
+"1743","Morehead St","VCU",0
+"1744","Morehead St","Villanova",0
+"1745","Morehead St","Virginia",1
+"1746","Morehead St","Virginia Tech",0
+"1747","Morehead St","West Virginia",1
+"1748","Morehead St","Wichita St",1
+"1749","Morehead St","Winthrop",0
+"1750","Morehead St","Wisconsin",0
+"1751","Mt St Mary's","Norfolk St",1
+"1752","Mt St Mary's","North Carolina",0
+"1753","Mt St Mary's","North Texas",0
+"1754","Mt St Mary's","Ohio",0
+"1755","Mt St Mary's","Ohio St",0
+"1756","Mt St Mary's","Oklahoma",0
+"1757","Mt St Mary's","Oklahoma St",0
+"1758","Mt St Mary's","Oral Roberts",0
+"1759","Mt St Mary's","Oregon",0
+"1760","Mt St Mary's","Oregon St",0
+"1761","Mt St Mary's","Purdue",0
+"1762","Mt St Mary's","Rutgers",0
+"1763","Mt St Mary's","San Diego St",0
+"1764","Mt St Mary's","UC Santa Barbara",0
+"1765","Mt St Mary's","St Bonaventure",0
+"1766","Mt St Mary's","Syracuse",0
+"1767","Mt St Mary's","Tennessee",0
+"1768","Mt St Mary's","Texas",1
+"1769","Mt St Mary's","Texas Tech",0
+"1770","Mt St Mary's","TX Southern",1
+"1771","Mt St Mary's","UCLA",0
+"1772","Mt St Mary's","UNC Greensboro",0
+"1773","Mt St Mary's","USC",1
+"1774","Mt St Mary's","Utah St",0
+"1775","Mt St Mary's","VCU",0
+"1776","Mt St Mary's","Villanova",0
+"1777","Mt St Mary's","Virginia",1
+"1778","Mt St Mary's","Virginia Tech",0
+"1779","Mt St Mary's","West Virginia",1
+"1780","Mt St Mary's","Wichita St",1
+"1781","Mt St Mary's","Winthrop",0
+"1782","Mt St Mary's","Wisconsin",0
+"1783","Norfolk St","North Carolina",0
+"1784","Norfolk St","North Texas",0
+"1785","Norfolk St","Ohio",0
+"1786","Norfolk St","Ohio St",0
+"1787","Norfolk St","Oklahoma",0
+"1788","Norfolk St","Oklahoma St",0
+"1789","Norfolk St","Oral Roberts",0
+"1790","Norfolk St","Oregon",0
+"1791","Norfolk St","Oregon St",0
+"1792","Norfolk St","Purdue",0
+"1793","Norfolk St","Rutgers",0
+"1794","Norfolk St","San Diego St",0
+"1795","Norfolk St","UC Santa Barbara",0
+"1796","Norfolk St","St Bonaventure",0
+"1797","Norfolk St","Syracuse",0
+"1798","Norfolk St","Tennessee",0
+"1799","Norfolk St","Texas",0
+"1800","Norfolk St","Texas Tech",0
+"1801","Norfolk St","TX Southern",1
+"1802","Norfolk St","UCLA",0
+"1803","Norfolk St","UNC Greensboro",0
+"1804","Norfolk St","USC",0
+"1805","Norfolk St","Utah St",0
+"1806","Norfolk St","VCU",0
+"1807","Norfolk St","Villanova",0
+"1808","Norfolk St","Virginia",0
+"1809","Norfolk St","Virginia Tech",0
+"1810","Norfolk St","West Virginia",0
+"1811","Norfolk St","Wichita St",0
+"1812","Norfolk St","Winthrop",0
+"1813","Norfolk St","Wisconsin",0
+"1814","North Carolina","North Texas",1
+"1815","North Carolina","Ohio",1
+"1816","North Carolina","Ohio St",1
+"1817","North Carolina","Oklahoma",1
+"1818","North Carolina","Oklahoma St",1
+"1819","North Carolina","Oral Roberts",0
+"1820","North Carolina","Oregon",1
+"1821","North Carolina","Oregon St",1
+"1822","North Carolina","Purdue",1
+"1823","North Carolina","Rutgers",1
+"1824","North Carolina","San Diego St",0
+"1825","North Carolina","UC Santa Barbara",1
+"1826","North Carolina","St Bonaventure",1
+"1827","North Carolina","Syracuse",0
+"1828","North Carolina","Tennessee",1
+"1829","North Carolina","Texas",1
+"1830","North Carolina","Texas Tech",1
+"1831","North Carolina","TX Southern",1
+"1832","North Carolina","UCLA",1
+"1833","North Carolina","UNC Greensboro",1
+"1834","North Carolina","USC",1
+"1835","North Carolina","Utah St",0
+"1836","North Carolina","VCU",1
+"1837","North Carolina","Villanova",1
+"1838","North Carolina","Virginia",1
+"1839","North Carolina","Virginia Tech",0
+"1840","North Carolina","West Virginia",1
+"1841","North Carolina","Wichita St",1
+"1842","North Carolina","Winthrop",1
+"1843","North Carolina","Wisconsin",1
+"1844","North Texas","Ohio",1
+"1845","North Texas","Ohio St",1
+"1846","North Texas","Oklahoma",0
+"1847","North Texas","Oklahoma St",1
+"1848","North Texas","Oral Roberts",0
+"1849","North Texas","Oregon",0
+"1850","North Texas","Oregon St",0
+"1851","North Texas","Purdue",0
+"1852","North Texas","Rutgers",0
+"1853","North Texas","San Diego St",0
+"1854","North Texas","UC Santa Barbara",0
+"1855","North Texas","St Bonaventure",0
+"1856","North Texas","Syracuse",0
+"1857","North Texas","Tennessee",1
+"1858","North Texas","Texas",1
+"1859","North Texas","Texas Tech",1
+"1860","North Texas","TX Southern",1
+"1861","North Texas","UCLA",1
+"1862","North Texas","UNC Greensboro",1
+"1863","North Texas","USC",1
+"1864","North Texas","Utah St",0
+"1865","North Texas","VCU",1
+"1866","North Texas","Villanova",0
+"1867","North Texas","Virginia",1
+"1868","North Texas","Virginia Tech",0
+"1869","North Texas","West Virginia",1
+"1870","North Texas","Wichita St",1
+"1871","North Texas","Winthrop",1
+"1872","North Texas","Wisconsin",0
+"1873","Ohio","Ohio St",0
+"1874","Ohio","Oklahoma",0
+"1875","Ohio","Oklahoma St",1
+"1876","Ohio","Oral Roberts",0
+"1877","Ohio","Oregon",0
+"1878","Ohio","Oregon St",0
+"1879","Ohio","Purdue",0
+"1880","Ohio","Rutgers",0
+"1881","Ohio","San Diego St",0
+"1882","Ohio","UC Santa Barbara",0
+"1883","Ohio","St Bonaventure",0
+"1884","Ohio","Syracuse",0
+"1885","Ohio","Tennessee",1
+"1886","Ohio","Texas",1
+"1887","Ohio","Texas Tech",0
+"1888","Ohio","TX Southern",1
+"1889","Ohio","UCLA",1
+"1890","Ohio","UNC Greensboro",1
+"1891","Ohio","USC",1
+"1892","Ohio","Utah St",0
+"1893","Ohio","VCU",1
+"1894","Ohio","Villanova",0
+"1895","Ohio","Virginia",1
+"1896","Ohio","Virginia Tech",0
+"1897","Ohio","West Virginia",1
+"1898","Ohio","Wichita St",1
+"1899","Ohio","Winthrop",1
+"1900","Ohio","Wisconsin",0
+"1901","Ohio St","Oklahoma",0
+"1902","Ohio St","Oklahoma St",1
+"1903","Ohio St","Oral Roberts",0
+"1904","Ohio St","Oregon",0
+"1905","Ohio St","Oregon St",0
+"1906","Ohio St","Purdue",0
+"1907","Ohio St","Rutgers",0
+"1908","Ohio St","San Diego St",0
+"1909","Ohio St","UC Santa Barbara",0
+"1910","Ohio St","St Bonaventure",0
+"1911","Ohio St","Syracuse",0
+"1912","Ohio St","Tennessee",1
+"1913","Ohio St","Texas",1
+"1914","Ohio St","Texas Tech",0
+"1915","Ohio St","TX Southern",1
+"1916","Ohio St","UCLA",1
+"1917","Ohio St","UNC Greensboro",1
+"1918","Ohio St","USC",1
+"1919","Ohio St","Utah St",0
+"1920","Ohio St","VCU",1
+"1921","Ohio St","Villanova",0
+"1922","Ohio St","Virginia",1
+"1923","Ohio St","Virginia Tech",0
+"1924","Ohio St","West Virginia",1
+"1925","Ohio St","Wichita St",1
+"1926","Ohio St","Winthrop",1
+"1927","Ohio St","Wisconsin",0
+"1928","Oklahoma","Oklahoma St",1
+"1929","Oklahoma","Oral Roberts",0
+"1930","Oklahoma","Oregon",0
+"1931","Oklahoma","Oregon St",0
+"1932","Oklahoma","Purdue",0
+"1933","Oklahoma","Rutgers",0
+"1934","Oklahoma","San Diego St",0
+"1935","Oklahoma","UC Santa Barbara",0
+"1936","Oklahoma","St Bonaventure",0
+"1937","Oklahoma","Syracuse",0
+"1938","Oklahoma","Tennessee",1
+"1939","Oklahoma","Texas",1
+"1940","Oklahoma","Texas Tech",0
+"1941","Oklahoma","TX Southern",1
+"1942","Oklahoma","UCLA",1
+"1943","Oklahoma","UNC Greensboro",1
+"1944","Oklahoma","USC",1
+"1945","Oklahoma","Utah St",0
+"1946","Oklahoma","VCU",1
+"1947","Oklahoma","Villanova",0
+"1948","Oklahoma","Virginia",1
+"1949","Oklahoma","Virginia Tech",0
+"1950","Oklahoma","West Virginia",1
+"1951","Oklahoma","Wichita St",1
+"1952","Oklahoma","Winthrop",1
+"1953","Oklahoma","Wisconsin",0
+"1954","Oklahoma St","Oral Roberts",0
+"1955","Oklahoma St","Oregon",0
+"1956","Oklahoma St","Oregon St",0
+"1957","Oklahoma St","Purdue",0
+"1958","Oklahoma St","Rutgers",0
+"1959","Oklahoma St","San Diego St",0
+"1960","Oklahoma St","UC Santa Barbara",0
+"1961","Oklahoma St","St Bonaventure",0
+"1962","Oklahoma St","Syracuse",0
+"1963","Oklahoma St","Tennessee",0
+"1964","Oklahoma St","Texas",1
+"1965","Oklahoma St","Texas Tech",0
+"1966","Oklahoma St","TX Southern",1
+"1967","Oklahoma St","UCLA",0
+"1968","Oklahoma St","UNC Greensboro",0
+"1969","Oklahoma St","USC",1
+"1970","Oklahoma St","Utah St",0
+"1971","Oklahoma St","VCU",0
+"1972","Oklahoma St","Villanova",0
+"1973","Oklahoma St","Virginia",1
+"1974","Oklahoma St","Virginia Tech",0
+"1975","Oklahoma St","West Virginia",1
+"1976","Oklahoma St","Wichita St",1
+"1977","Oklahoma St","Winthrop",0
+"1978","Oklahoma St","Wisconsin",0
+"1979","Oral Roberts","Oregon",1
+"1980","Oral Roberts","Oregon St",1
+"1981","Oral Roberts","Purdue",1
+"1982","Oral Roberts","Rutgers",1
+"1983","Oral Roberts","San Diego St",1
+"1984","Oral Roberts","UC Santa Barbara",1
+"1985","Oral Roberts","St Bonaventure",1
+"1986","Oral Roberts","Syracuse",1
+"1987","Oral Roberts","Tennessee",1
+"1988","Oral Roberts","Texas",1
+"1989","Oral Roberts","Texas Tech",1
+"1990","Oral Roberts","TX Southern",1
+"1991","Oral Roberts","UCLA",1
+"1992","Oral Roberts","UNC Greensboro",1
+"1993","Oral Roberts","USC",1
+"1994","Oral Roberts","Utah St",1
+"1995","Oral Roberts","VCU",1
+"1996","Oral Roberts","Villanova",1
+"1997","Oral Roberts","Virginia",1
+"1998","Oral Roberts","Virginia Tech",1
+"1999","Oral Roberts","West Virginia",1
+"2000","Oral Roberts","Wichita St",1
+"2001","Oral Roberts","Winthrop",1
+"2002","Oral Roberts","Wisconsin",1
+"2003","Oregon","Oregon St",0
+"2004","Oregon","Purdue",1
+"2005","Oregon","Rutgers",1
+"2006","Oregon","San Diego St",0
+"2007","Oregon","UC Santa Barbara",1
+"2008","Oregon","St Bonaventure",1
+"2009","Oregon","Syracuse",0
+"2010","Oregon","Tennessee",1
+"2011","Oregon","Texas",1
+"2012","Oregon","Texas Tech",1
+"2013","Oregon","TX Southern",1
+"2014","Oregon","UCLA",1
+"2015","Oregon","UNC Greensboro",1
+"2016","Oregon","USC",1
+"2017","Oregon","Utah St",0
+"2018","Oregon","VCU",1
+"2019","Oregon","Villanova",0
+"2020","Oregon","Virginia",1
+"2021","Oregon","Virginia Tech",0
+"2022","Oregon","West Virginia",1
+"2023","Oregon","Wichita St",1
+"2024","Oregon","Winthrop",1
+"2025","Oregon","Wisconsin",1
+"2026","Oregon St","Purdue",1
+"2027","Oregon St","Rutgers",1
+"2028","Oregon St","San Diego St",0
+"2029","Oregon St","UC Santa Barbara",1
+"2030","Oregon St","St Bonaventure",1
+"2031","Oregon St","Syracuse",0
+"2032","Oregon St","Tennessee",1
+"2033","Oregon St","Texas",1
+"2034","Oregon St","Texas Tech",1
+"2035","Oregon St","TX Southern",1
+"2036","Oregon St","UCLA",1
+"2037","Oregon St","UNC Greensboro",1
+"2038","Oregon St","USC",1
+"2039","Oregon St","Utah St",0
+"2040","Oregon St","VCU",1
+"2041","Oregon St","Villanova",0
+"2042","Oregon St","Virginia",1
+"2043","Oregon St","Virginia Tech",0
+"2044","Oregon St","West Virginia",1
+"2045","Oregon St","Wichita St",1
+"2046","Oregon St","Winthrop",1
+"2047","Oregon St","Wisconsin",1
+"2048","Purdue","Rutgers",0
+"2049","Purdue","San Diego St",0
+"2050","Purdue","UC Santa Barbara",1
+"2051","Purdue","St Bonaventure",0
+"2052","Purdue","Syracuse",0
+"2053","Purdue","Tennessee",1
+"2054","Purdue","Texas",1
+"2055","Purdue","Texas Tech",1
+"2056","Purdue","TX Southern",1
+"2057","Purdue","UCLA",1
+"2058","Purdue","UNC Greensboro",1
+"2059","Purdue","USC",1
+"2060","Purdue","Utah St",0
+"2061","Purdue","VCU",1
+"2062","Purdue","Villanova",0
+"2063","Purdue","Virginia",1
+"2064","Purdue","Virginia Tech",0
+"2065","Purdue","West Virginia",1
+"2066","Purdue","Wichita St",1
+"2067","Purdue","Winthrop",1
+"2068","Purdue","Wisconsin",1
+"2069","Rutgers","San Diego St",0
+"2070","Rutgers","UC Santa Barbara",0
+"2071","Rutgers","St Bonaventure",0
+"2072","Rutgers","Syracuse",0
+"2073","Rutgers","Tennessee",1
+"2074","Rutgers","Texas",1
+"2075","Rutgers","Texas Tech",0
+"2076","Rutgers","TX Southern",1
+"2077","Rutgers","UCLA",1
+"2078","Rutgers","UNC Greensboro",1
+"2079","Rutgers","USC",1
+"2080","Rutgers","Utah St",0
+"2081","Rutgers","VCU",1
+"2082","Rutgers","Villanova",0
+"2083","Rutgers","Virginia",1
+"2084","Rutgers","Virginia Tech",0
+"2085","Rutgers","West Virginia",1
+"2086","Rutgers","Wichita St",1
+"2087","Rutgers","Winthrop",1
+"2088","Rutgers","Wisconsin",0
+"2089","San Diego St","UC Santa Barbara",1
+"2090","San Diego St","St Bonaventure",1
+"2091","San Diego St","Syracuse",0
+"2092","San Diego St","Tennessee",1
+"2093","San Diego St","Texas",1
+"2094","San Diego St","Texas Tech",1
+"2095","San Diego St","TX Southern",1
+"2096","San Diego St","UCLA",1
+"2097","San Diego St","UNC Greensboro",1
+"2098","San Diego St","USC",1
+"2099","San Diego St","Utah St",0
+"2100","San Diego St","VCU",1
+"2101","San Diego St","Villanova",0
+"2102","San Diego St","Virginia",1
+"2103","San Diego St","Virginia Tech",0
+"2104","San Diego St","West Virginia",1
+"2105","San Diego St","Wichita St",1
+"2106","San Diego St","Winthrop",1
+"2107","San Diego St","Wisconsin",1
+"2108","UC Santa Barbara","St Bonaventure",0
+"2109","UC Santa Barbara","Syracuse",0
+"2110","UC Santa Barbara","Tennessee",1
+"2111","UC Santa Barbara","Texas",1
+"2112","UC Santa Barbara","Texas Tech",1
+"2113","UC Santa Barbara","TX Southern",1
+"2114","UC Santa Barbara","UCLA",1
+"2115","UC Santa Barbara","UNC Greensboro",1
+"2116","UC Santa Barbara","USC",1
+"2117","UC Santa Barbara","Utah St",0
+"2118","UC Santa Barbara","VCU",1
+"2119","UC Santa Barbara","Villanova",0
+"2120","UC Santa Barbara","Virginia",1
+"2121","UC Santa Barbara","Virginia Tech",0
+"2122","UC Santa Barbara","West Virginia",1
+"2123","UC Santa Barbara","Wichita St",1
+"2124","UC Santa Barbara","Winthrop",1
+"2125","UC Santa Barbara","Wisconsin",1
+"2126","St Bonaventure","Syracuse",0
+"2127","St Bonaventure","Tennessee",1
+"2128","St Bonaventure","Texas",1
+"2129","St Bonaventure","Texas Tech",1
+"2130","St Bonaventure","TX Southern",1
+"2131","St Bonaventure","UCLA",1
+"2132","St Bonaventure","UNC Greensboro",1
+"2133","St Bonaventure","USC",1
+"2134","St Bonaventure","Utah St",0
+"2135","St Bonaventure","VCU",1
+"2136","St Bonaventure","Villanova",0
+"2137","St Bonaventure","Virginia",1
+"2138","St Bonaventure","Virginia Tech",0
+"2139","St Bonaventure","West Virginia",1
+"2140","St Bonaventure","Wichita St",1
+"2141","St Bonaventure","Winthrop",1
+"2142","St Bonaventure","Wisconsin",1
+"2143","Syracuse","Tennessee",1
+"2144","Syracuse","Texas",1
+"2145","Syracuse","Texas Tech",1
+"2146","Syracuse","TX Southern",1
+"2147","Syracuse","UCLA",1
+"2148","Syracuse","UNC Greensboro",1
+"2149","Syracuse","USC",1
+"2150","Syracuse","Utah St",0
+"2151","Syracuse","VCU",1
+"2152","Syracuse","Villanova",0
+"2153","Syracuse","Virginia",1
+"2154","Syracuse","Virginia Tech",0
+"2155","Syracuse","West Virginia",1
+"2156","Syracuse","Wichita St",1
+"2157","Syracuse","Winthrop",1
+"2158","Syracuse","Wisconsin",1
+"2159","Tennessee","Texas",1
+"2160","Tennessee","Texas Tech",0
+"2161","Tennessee","TX Southern",1
+"2162","Tennessee","UCLA",0
+"2163","Tennessee","UNC Greensboro",1
+"2164","Tennessee","USC",1
+"2165","Tennessee","Utah St",0
+"2166","Tennessee","VCU",0
+"2167","Tennessee","Villanova",0
+"2168","Tennessee","Virginia",1
+"2169","Tennessee","Virginia Tech",0
+"2170","Tennessee","West Virginia",1
+"2171","Tennessee","Wichita St",1
+"2172","Tennessee","Winthrop",0
+"2173","Tennessee","Wisconsin",0
+"2174","Texas","Texas Tech",0
+"2175","Texas","TX Southern",1
+"2176","Texas","UCLA",0
+"2177","Texas","UNC Greensboro",0
+"2178","Texas","USC",0
+"2179","Texas","Utah St",0
+"2180","Texas","VCU",0
+"2181","Texas","Villanova",0
+"2182","Texas","Virginia",0
+"2183","Texas","Virginia Tech",0
+"2184","Texas","West Virginia",1
+"2185","Texas","Wichita St",1
+"2186","Texas","Winthrop",0
+"2187","Texas","Wisconsin",0
+"2188","Texas Tech","TX Southern",1
+"2189","Texas Tech","UCLA",1
+"2190","Texas Tech","UNC Greensboro",1
+"2191","Texas Tech","USC",1
+"2192","Texas Tech","Utah St",0
+"2193","Texas Tech","VCU",1
+"2194","Texas Tech","Villanova",0
+"2195","Texas Tech","Virginia",1
+"2196","Texas Tech","Virginia Tech",0
+"2197","Texas Tech","West Virginia",1
+"2198","Texas Tech","Wichita St",1
+"2199","Texas Tech","Winthrop",1
+"2200","Texas Tech","Wisconsin",0
+"2201","TX Southern","UCLA",0
+"2202","TX Southern","UNC Greensboro",0
+"2203","TX Southern","USC",0
+"2204","TX Southern","Utah St",0
+"2205","TX Southern","VCU",0
+"2206","TX Southern","Villanova",0
+"2207","TX Southern","Virginia",0
+"2208","TX Southern","Virginia Tech",0
+"2209","TX Southern","West Virginia",0
+"2210","TX Southern","Wichita St",0
+"2211","TX Southern","Winthrop",0
+"2212","TX Southern","Wisconsin",0
+"2213","UCLA","UNC Greensboro",1
+"2214","UCLA","USC",1
+"2215","UCLA","Utah St",0
+"2216","UCLA","VCU",1
+"2217","UCLA","Villanova",0
+"2218","UCLA","Virginia",1
+"2219","UCLA","Virginia Tech",0
+"2220","UCLA","West Virginia",1
+"2221","UCLA","Wichita St",1
+"2222","UCLA","Winthrop",1
+"2223","UCLA","Wisconsin",0
+"2224","UNC Greensboro","USC",1
+"2225","UNC Greensboro","Utah St",0
+"2226","UNC Greensboro","VCU",0
+"2227","UNC Greensboro","Villanova",0
+"2228","UNC Greensboro","Virginia",1
+"2229","UNC Greensboro","Virginia Tech",0
+"2230","UNC Greensboro","West Virginia",1
+"2231","UNC Greensboro","Wichita St",1
+"2232","UNC Greensboro","Winthrop",0
+"2233","UNC Greensboro","Wisconsin",0
+"2234","USC","Utah St",0
+"2235","USC","VCU",0
+"2236","USC","Villanova",0
+"2237","USC","Virginia",0
+"2238","USC","Virginia Tech",0
+"2239","USC","West Virginia",1
+"2240","USC","Wichita St",1
+"2241","USC","Winthrop",0
+"2242","USC","Wisconsin",0
+"2243","Utah St","VCU",1
+"2244","Utah St","Villanova",0
+"2245","Utah St","Virginia",1
+"2246","Utah St","Virginia Tech",0
+"2247","Utah St","West Virginia",1
+"2248","Utah St","Wichita St",1
+"2249","Utah St","Winthrop",1
+"2250","Utah St","Wisconsin",1
+"2251","VCU","Villanova",0
+"2252","VCU","Virginia",1
+"2253","VCU","Virginia Tech",0
+"2254","VCU","West Virginia",1
+"2255","VCU","Wichita St",1
+"2256","VCU","Winthrop",0
+"2257","VCU","Wisconsin",0
+"2258","Villanova","Virginia",1
+"2259","Villanova","Virginia Tech",0
+"2260","Villanova","West Virginia",1
+"2261","Villanova","Wichita St",1
+"2262","Villanova","Winthrop",1
+"2263","Villanova","Wisconsin",1
+"2264","Virginia","Virginia Tech",0
+"2265","Virginia","West Virginia",1
+"2266","Virginia","Wichita St",1
+"2267","Virginia","Winthrop",0
+"2268","Virginia","Wisconsin",0
+"2269","Virginia Tech","West Virginia",1
+"2270","Virginia Tech","Wichita St",1
+"2271","Virginia Tech","Winthrop",1
+"2272","Virginia Tech","Wisconsin",1
+"2273","West Virginia","Wichita St",1
+"2274","West Virginia","Winthrop",0
+"2275","West Virginia","Wisconsin",0
+"2276","Wichita St","Winthrop",0
+"2277","Wichita St","Wisconsin",0
+"2278","Winthrop","Wisconsin",0
